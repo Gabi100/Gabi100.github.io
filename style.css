@@ -1,0 +1,86 @@
+main{
+    /*   width: 800px; */
+      }
+    
+    header{
+      font-family: 'Abril Fatface', cursive; 
+      background: center / contain url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 100%;
+      }
+    .head_Anakin {
+      padding-top: 25%;
+      padding-bottom: 3%;
+      padding-left: 22%;
+      padding-right: 20%;
+    }
+    /* img{
+      width: 100%;
+      height: 100%;
+    } */
+    
+    h2{
+      font-size: 35px;
+      color: #222 grey;
+      margin-bottom:-8px;
+     }
+    h1{ 
+      font-size: 60px;
+      color:#222 grey;
+      margin-top:-8px;
+      /*   border-top: none; */
+    }
+    /* 
+    .container{
+      position: relative; */
+    /*   text-align: left; */
+    /*  } 
+      .text-block{
+      position: absolute;
+      background-color: none;
+      color: #222 grey;
+      padding-left: 20px;
+      padding-right: 20px;
+      }
+       */
+    
+    /* p{
+      font-family: 'Josefin Sans', sans-serif;
+      } */
+      .inner_text{ 
+      font-family: 'Josefin Sans', sans-serif;
+      text-align: left;
+      margin-top: none;
+      padding-left: 25%;
+      padding-right: 25%;
+    }
+    section{
+    /*   color: grey; */
+      margin: auto ; 
+      display: flex;
+      align-items: center;
+      font-family: 'Abril Fatface', cursive;
+      color: white; 
+      font-size: 40px;
+    /*   text-align: center; */
+      background: grey;
+      width: 55%;
+      height: 200px;
+      padding: 0px; 
+      
+    /*   padding-left: none;
+      padding-right: none;
+      padding-bottom: 10px;
+      padding-top: 0px; */
+      
+    }
+     
+    blockquote::before {
+       content: '\201C';
+       font-size: 300%;
+      
+      
+    /*   content: no-close-quote ;/*open-quote; /* hogy lehet, csak az első idézőjelet beletenni?*/ */
+      }
+    
